@@ -61,13 +61,6 @@
 </section> 
 -->
 
-<!-- Contact -->
-<section style="color:#eee; text-align:left; margin-top:20px;">
-  <h2 style="font-size:20px; color:#4db6ff;">📬 ᴄᴏɴᴛᴀᴄᴛ</h2>
-  <p style="font-size:14px; line-height:1.6;">
-    Email: <a href="mailto:gcolladojimenez@gmail.com" style="color:#4db6ff; text-decoration:none;">gcolladojimenez@gmail.com</a><br>
-  </p>
-</section>
 
 
 
