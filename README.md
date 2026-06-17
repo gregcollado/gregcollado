@@ -1,7 +1,7 @@
 
 <!-- Typing Banner -->
 <img
-  src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40=true&vCenter=true&width=500&height=70&duration=4000&color=B3B3B3&lines=Hi!+👋;+I'm+Gregory+Collado!;"
+  src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40=true&vCenter=true&width=500&height=70&duration=4000&color=B3B3B3&lines=Hi!+👋;+I'm+Welcome to my profile!;"
 />
 
 <!-- Horizontal Divider -->
@@ -39,13 +39,12 @@
   </p>
 </div>
 
-#### Popular Projects
-<!-- Vehicle Rental Management API -->
+<!-- #### Popular Projects
+<!-- Vehicle Rental Management API 
 <a href="https://github.com/gregcollado/vehicle-rental-api">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gregcollado&repo=vehicle-rental-api&theme=tokyonight&bg_color=0D1117&title_color=4db6ff&text_color=c9d1d9&icon_color=4db6ff" />
-</a>
+</a> -->
   
-
 <!-- Featured Project -->
 <section style="color:#eee; text-align:left;">
   <h2 style="font-size:22px; color:#4db6ff; margin-bottom:12px;">
@@ -66,8 +65,6 @@
   <h2 style="font-size:20px; color:#4db6ff;">📬 ᴄᴏɴᴛᴀᴄᴛ</h2>
   <p style="font-size:14px; line-height:1.6;">
     Email: <a href="mailto:gcolladojimenez@gmail.com" style="color:#4db6ff; text-decoration:none;">gcolladojimenez@gmail.com</a><br>
-    GitHub: <a href="https://github.com/gregcollado" target="_blank" style="color:#4db6ff; text-decoration:none;">github.com/gregcollado</a><br>
-    LinkedIn: <a href="https://www.linkedin.com/in/gregcollado" target="_blank" style="color:#4db6ff; text-decoration:none;">linkedin.com/in/gregcollado</a>
   </p>
 </section>
 
