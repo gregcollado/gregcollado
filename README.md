@@ -44,8 +44,8 @@
 <a href="https://github.com/gregcollado/vehicle-rental-api">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gregcollado&repo=vehicle-rental-api&theme=tokyonight&bg_color=0D1117&title_color=4db6ff&text_color=c9d1d9&icon_color=4db6ff" />
 </a> -->
-  
-<!-- Featured Project -->
+<!--
+<!-- Featured Project 
 <section style="color:#eee; text-align:left;">
   <h2 style="font-size:22px; color:#4db6ff; margin-bottom:12px;">
     🚀 ᴘʀᴏᴊᴇᴄᴛ ʜɪɢʜʟɪɢʜᴛ
@@ -58,7 +58,8 @@
       View on GitHub
     </a>
   </p>
-</section>
+</section> 
+-->
 
 <!-- Contact -->
 <section style="color:#eee; text-align:left; margin-top:20px;">
